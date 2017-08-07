@@ -5,3 +5,4 @@ git has a mutable inder called stage
 now should not be clean
 git tracks changes.
 first change after remote link.
+test for show information.
